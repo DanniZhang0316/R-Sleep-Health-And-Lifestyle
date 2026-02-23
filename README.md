@@ -7,7 +7,7 @@ The dataset contains **374 observations** and **13 variables**, including demogr
 
 The objective of this study is to examine how stress, sleep duration, BMI, heart rate, and occupation relate to perceived sleep quality.
 
-> ⚠️ **Note:** The full analytical report is in **Estonian**.
+> **Note:** The full analytical report is in **Estonian**.
 
 ---
 
